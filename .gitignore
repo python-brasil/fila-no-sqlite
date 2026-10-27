@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+fila.db
+fila.db-*
